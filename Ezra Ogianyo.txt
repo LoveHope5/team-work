@@ -1,0 +1,5 @@
+My name is Ezra Ogianyo and I am trainee Software Engineer.
+I have previous work experience in tech as a GRC Program Analyst and a Product Manager.
+I have always wanted to transition into software development, and in that regard, I have taken and completed the Udacity Introduction to Programming Nanodegree program as well as the Design-U Developer School program. 
+I am also currently completing a Diploma course in Software Engineering from AltSchool Africa and during the course of those programs, I learned the basics of HTML, CSS, Vanilla Javascript, Python, and version control with Git and Github.
+I am happy to be a membe of this team and I hope to give my best. 
