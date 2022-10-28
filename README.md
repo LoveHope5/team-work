@@ -4,4 +4,5 @@ Kindly pull the update and add your name to this file
 
 Contributors:
 1.Brice Mehelo - Lead Developer
-2.Ezra Ogianyo - Developer
+2.Chita Chiamaka - Intern Developer
+3.Ezra Ogianyo - Developer
